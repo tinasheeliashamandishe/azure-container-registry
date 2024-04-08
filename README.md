@@ -35,7 +35,7 @@ Create a  Azure Container Registry resource<br/>
 <h4>Step 2</h4> 
 Once your Registry is created, you can post all your images intot eh repositories Sections.<br/>
 Here, my repository is empty, so there is nothing.<br/>
-<img src=https://i.imgur.com/QCHsKif.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+<img src="https://i.imgur.com/QCHsKif.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <br />
 
 
